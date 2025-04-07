@@ -1,0 +1,17 @@
+# Core libraries
+sentence-transformers==2.2.2
+langchain==0.1.14
+pypdf==3.17.0
+python-dotenv==1.0.1
+
+# Pinecone and LangChain integrations
+langchain-pinecone==0.0.3
+langchain-community==0.0.30
+google-generativeai==0.3.2
+langchain-experimental==0.0.49
+
+# Streamlit for deployment
+streamlit==1.31.1
+
+# Additional dependencies
+pinecone-client>=3.0.0,<4.0.0 
