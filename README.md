@@ -1,12 +1,5 @@
 # AI Medical ChatBot
 
-<div align="center">
-  <img src="images/medicalbot1.png" alt="AI Medical ChatBot Banner" width="800"/>
-  <img src="images/medicalbot2.png" alt="AI Medical ChatBot Banner" width="800"/>
-  <br>
-  <em>A sophisticated medical chatbot powered by advanced AI technologies</em>
-</div>
-
 A sophisticated medical chatbot powered by advanced AI technologies, designed to provide accurate and helpful medical information based on a comprehensive medical knowledge base.
 
 ## 🚀 Features
@@ -101,9 +94,6 @@ AI-Medical-ChatBot/
 └── .env              # Environment variables
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
