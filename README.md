@@ -25,27 +25,6 @@ A sophisticated medical chatbot powered by advanced AI technologies, designed to
 - Pinecone API key
 - Google Gemini API key
 
-## 🔧 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/MohammedHamza0/AI-Medical-ChatBot.git
-cd AI-Medical-ChatBot
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Set up environment variables:
-   - Copy `.env.example` to `.env`
-   - Add your API keys:
-     ```
-     PINECONE_API_KEY=your_pinecone_api_key
-     GEMINI_API_KEY=your_gemini_api_key
-     ```
-
 ## 🚀 Usage
 
 ### Local Development
